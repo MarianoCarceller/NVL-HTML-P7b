@@ -1,0 +1,31 @@
+<!DOCUTYPE html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Practica de enlace.</title>
+    </head>
+    <body>
+       <a href="#termino_con_A">A</a>
+       <a href="#termino_con_C">C</a>
+       <a href="#termino_con_E">E</a>
+       <a href="#termino_con_H">H</a>
+       <a href="#termino_con_I">I</a>
+       <a href="#termino_con_M">M</a>
+       <a href="#termino_con_O">O</a>
+       <a href="#termino_con_P">P</a>
+       <a href="#termino_con_R">R</a>
+       <a href="#termino_con_S">S</a>
+       <a href="#termino_con_T">T</a>
+       <a name="termino_con_A"><strong>Acción tutorial</strong>. Actuación docente que se realiza con la finalidad de apoyar el aprendizaje delestudiante así como su desarrollo personal y profesional.</a>
+       <a name="termino_con_C"><strong>Calificación</strong>. Expresión numérica o nominal que genera normalmente un profesor, tutor o supervisor,para resumir la valoración de los logros de aprendizaje conseguidos por el alumno.</a>
+       <a name="termino_con_E"><strong>Educador</strong>. Se dice que el docente actúa como educador cuando se preocupa por la formación integral del estudiante (desarrollo personal, social, profesional), no sólo de que asimile contenidos teóricos.</a>
+       <a name="termino_con_H"><strong>Habilidad</strong>. Capacidad relacionada con la posibilidad de realizar una acción o actividad concretas. Supone un saber hacer relacionado con una tarea, una meta o un objetivo.</a>
+       <a name="termino_con_I"><strong>Instructor</strong>. Se dice del docente que actúa pretendiendo sólo “llenar la cabeza” del estudiante de contenidos teóricos.</a>
+       <a name="termino_con_M"><strong>Mentoría</strong>. Acción tutorial desarrollada por compañeros.</a>
+       <a name="termino_con_O"><strong>Orientación</strong>. Proceso educativo cuya finalidad es favorecer el desarrollo integral (académico, personal y profesional) del estudiante.</a>
+       <a name="termino_con_P"><strong>Profesores noveles</strong>. Profesores recién incorporados a la docencia universitaria.</a>
+       <a name="termino_con_R"><strong>Recursos contextuales</strong>. Centros de documentación, de recursos, de información, de prácticas, etc. existentes en el entorno.</a>
+       <a name="termino_con_S"><strong>Simulación</strong>. Configuración de situaciones similares a las que se producen en un contexto real, con la finalidad de utilizarlas como experiencia de aprendizaje o como procedimiento para la evaluación.</a>
+       <a name="termino_con_T"><strong>Tutor</strong>. Docente que se responsabiliza de realizar la acción tutorial con un grupo de estudiantes.</a>
+     </body>
+   </html>
